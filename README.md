@@ -17,6 +17,7 @@ once it has everything it will:
  1. theres 20% that it will stop and say that its tired
  2. it wont divide to 0 because the pshysic engine "failed"
  3. everytime it guesses it will go slower and slower (calculators have feelings too yk?)
+ 4. if you type 0-0 0+0 or 0*0 it will say console.log(HelloWorld)
 
 # why
 why not
