@@ -84,7 +84,15 @@ async function processResult() {
         endSession();
         return;
     }
-
+    
+    if (num1 === 0 && num2 === 0 && op !== "/") {
+        display.innerText = 'console.log("HelloWorld")';
+        status.innerText = "no.";
+        console.log("HelloWorld");
+        endSession();
+        return;
+    }
+    
     if (!Number.isInteger(finalAnswer) || finalAnswer < 0 || finalAnswer > 100) {
         display.innerText = "The answer is outside my paygrade (0-100). Do it yourself.";
         endSession();
