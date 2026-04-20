@@ -14,9 +14,9 @@ once it has everything it will:
 
 
 # funny little things
-1.theres 20% that it will stop and say that its tired
-2.it wont divide to 0 because the pshysic engine "failed"
-3.everytime it guesses it will go slower and slower (calculators have feelings too yk?)
+ 1.theres 20% that it will stop and say that its tired
+ 2.it wont divide to 0 because the pshysic engine "failed"
+ 3.everytime it guesses it will go slower and slower (calculators have feelings too yk?)
 
 # why
 why not
